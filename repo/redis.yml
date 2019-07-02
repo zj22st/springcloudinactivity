@@ -1,5 +1,5 @@
 spring:
   redis:
-    host: localhost
-    port: 6379
-    password:
+    host: 47.98.117.137
+    port: 33898
+    password: sHk$kY8N&5G=&^-
